@@ -1,0 +1,34 @@
+# Collision Shapes Exported by MeshProcessor
+#
+# Principal Axis Transformation:
+# Offset (in visual unit):
+# 0 0 0
+# Rotation (quaternion as X, Y, Z, W):
+# 0 0 0 1
+# Inertia/mass (in visual unit^2):
+# 0 0 0
+
+# 8 vertex positions
+v -216.535 0 -413.386
+v -216.535 39.3701 -413.386
+v 216.535 39.3701 -413.386
+v 216.535 0 -413.386
+v -216.535 0 413.386
+v -216.535 39.3701 413.386
+v 216.535 0 413.386
+v 216.535 39.3701 413.386
+# Mesh '' with 12 faces
+g 
+# CONVEX
+f 1 2 3
+f 3 4 1
+f 5 6 2
+f 2 1 5
+f 7 8 6
+f 6 5 7
+f 4 3 8
+f 8 7 4
+f 1 7 5
+f 3 6 8
+f 1 4 7
+f 3 2 6

@@ -1,0 +1,56 @@
+{
+  "deploy-name": "Okoshaz",
+  "version": 0.1,
+  "main": "index.jsx",
+  "environment": {
+    "background": {
+      "r": 0.2,
+      "g": 0.2,
+      "b": 0.2,
+      "a": 1
+    },
+    "ambient": {
+      "r": 0.2,
+      "g": 0.2,
+      "b": 0.2,
+      "a": 1
+    },
+    "skybox": {
+      "material": "FXUnlitSkyboxLatlong"
+    }
+  },
+  "camera": {
+    "position": {
+      "x": 2812.5341796875,
+      "y": 1477.2572021484375,
+      "z": 5109.7861328125
+    },
+    "orientation": {
+      "w": 0.9435126185417175,
+      "x": -0.25634661316871643,
+      "y": 0.20258542895317078,
+      "z": 0.05504118651151657
+    }
+  },
+  "local": "./resources",
+  "meta": {
+    "affiliation": null,
+    "creator": "Andris-Peti"
+  },
+  "description": {
+    "full": "Component with node-red integration.",
+    "short": "Component with node-red integration."
+  },
+  "components": {
+    "voc-builder": "./components/voc-builder/component.json",
+    "threejs-gizmo": "./components/threejs-gizmo/component.json"
+  },
+  "tags": ["private"],
+  "isPrivate": false,
+  "isPublic": false,
+  "mainTag": null,
+  "name": "",
+  "price": 0,
+  "dependencies": [],
+  "thumbnails": []
+}

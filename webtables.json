@@ -1,0 +1,27 @@
+[
+  {
+    "index": 1,
+    "url": "http://localhost:8000/red/",
+    "position": {
+      "x": -1181.9083251953125,
+      "y": 513.9917602539062,
+      "z": 64.49151611328125
+    },
+    "orientation": {
+      "x": -0.05301084369421005,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.9985940456390381
+    },
+    "size": {
+      "width": 691.0560131072998,
+      "height": 388.71896266937256
+    },
+    "resolution": {
+      "width": 1600,
+      "height": 899
+    },
+    "lastLoadedURL": "maxwhere:///default",
+    "autoResolution": true
+  }
+]
